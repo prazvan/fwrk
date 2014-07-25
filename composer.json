@@ -1,0 +1,13 @@
+{
+    "name": "prazvan/fwrk",
+    "description": "PHP Micro Framework",
+    "license": "The MIT License",
+    "authors": [
+        {
+            "name": "Razvan Posobescu",
+            "email": "razvan.pposobescu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
