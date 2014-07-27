@@ -1,0 +1,1 @@
+"symfony/http-kernel": "2.6.*@dev",

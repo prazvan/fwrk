@@ -8,6 +8,15 @@
             "email": "razvan.pposobescu@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "comment": "Bellow are the Core packages used in the framework",
+    "require":
+    {
+        "versionable/autoload": "1.0.*@dev",
+
+        "symfony/http-foundation": "2.6.*@dev",
+
+        "doctrine/dbal": "2.5.*@dev",
+
+        "patchwork/utf8": "~1.1"
+    }
 }
